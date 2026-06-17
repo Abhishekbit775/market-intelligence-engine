@@ -6,4 +6,4 @@ streamlit
 plotly
 requests
 python-dotenv
-yfinance
+yfinance==0.2.18
